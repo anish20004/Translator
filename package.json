@@ -1,0 +1,19 @@
+{
+  "name": "translator-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "start": "node App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anish20004/Translator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anish20004/Translator/issues"
+  },
+  "homepage": "https://github.com/anish20004/Translator#readme"
+}
