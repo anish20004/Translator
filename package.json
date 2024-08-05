@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/anish20004/Translator/issues"
   },
-  "homepage": "https://github.com/anish20004/Translator#readme"
+  "homepage": "https://github.com/anish20004/Translator#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
